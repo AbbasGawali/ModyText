@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AbbasGawali.github.io/ModyText/static/css/main.8920ae9e.css",
+    "main.js": "/AbbasGawali.github.io/ModyText/static/js/main.d0f33981.js",
+    "index.html": "/AbbasGawali.github.io/ModyText/index.html",
+    "main.8920ae9e.css.map": "/AbbasGawali.github.io/ModyText/static/css/main.8920ae9e.css.map",
+    "main.d0f33981.js.map": "/AbbasGawali.github.io/ModyText/static/js/main.d0f33981.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8920ae9e.css",
+    "static/js/main.d0f33981.js"
+  ]
+}
